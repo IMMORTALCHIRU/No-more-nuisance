@@ -5,3 +5,7 @@ Here we can do any of the four tasks which are very essential in every police st
 2)	Request leave
 3)	ADD criminal
 4)	Or we can add a new case.
+
+# Don't forget to STAR the Repo ⭐
+
+# Feel free to Ping me 😉
